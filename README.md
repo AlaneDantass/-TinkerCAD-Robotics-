@@ -1,0 +1,2 @@
+#  TinkerCAD Robotics:
+  Este repositório apresenta uma coleção de modelos 3D e circuitos Arduino desenvolvidos para competições de robótica, olimpíadas e mostras científicas. Desde montagens simples até projetos avançados, esta coleção destina-se a compartilhar estudos e trajetórias de projetos utilizados em competições de alto nível, proporcionando insights e inspiração para entusiastas da robótica.
